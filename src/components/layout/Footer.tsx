@@ -5,7 +5,7 @@ export default function Footer() {
     <footer
       id='footer'
       role='contentinfo'
-      className='block bg-green-100 text-base leading-7 text-white'
+      className='block bg-[#d9f7f2] text-base leading-7 text-white'
     >
       <div className='m-auto box-border w-auto py-16 px-8 text-center leading-7'>
         <div className='relative block text-xs font-normal uppercase not-italic'>
